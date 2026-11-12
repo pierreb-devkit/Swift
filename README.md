@@ -1,6 +1,4 @@
-[![Build Status](https://badges.weareopensource.me/travis/weareopensource/Swift.svg?style=flat-square)](https://app.travis-ci.com/github/weareopensource/Swift) [![Coveralls Status](https://badges.weareopensource.me/coveralls/github/weareopensource/Swift.svg?style=flat-square)](https://coveralls.io/github/weareopensource/Swift) [![Code Climate](https://badges.weareopensource.me/codeclimate/maintainability-percentage/weareopensource/Swift.svg?style=flat-square)](https://codeclimate.com/github/weareopensource/Swift/maintainability)
-
-# :globe_with_meridians: [WeAreOpenSource](https://weareopensource.me) Swift - Beta
+# :globe_with_meridians: WeAreOpenSource Swift - Beta
 
 ## :book: Presentation
 
@@ -8,10 +6,7 @@ This project is a Swift stack that can be ran as a standalone FrontEnd. Or in a 
 
 Quick links :
 
-- [Mindset and what we would like to create](https://weareopensource.me/)
-- [How to start a project and maintain updates from stacks](https://blog.weareopensource.me/start-a-project-and-maintain-updates/)
 - [Global roadmap and ideas about stacks](https://github.com/orgs/weareopensource/projects/3)
-- [How to contribute and help us](https://blog.weareopensource.me/how-to-contribute/)
 
 Our stack Swift is actually in Beta.
 
@@ -20,7 +15,6 @@ Our stack Swift is actually in Beta.
 # :computer: Swift / RxSwift / ReactorKit
 
 - [Swift wiki](https://github.com/weareopensource/Swift/blob/master/WIKI.md) - wip
-- [**Knowledges Swift**](https://blog.weareopensource.me/swift-knwoledges/)
 - [**Demo**] Follow Instalation Guide (working with [Node](https://github.com/weareopensource/Node) stack, email: *test@waos.me*, password: _TestWaos@2019_)
 
 ## :package: Technology Overview
@@ -110,13 +104,13 @@ In develompment
 - Or drag and drop example.apns on device
 - [article](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
 
-## :pencil2: [Contribute](https://blog.weareopensource.me/how-to-contribute/)
+## :pencil2: Contribute
 
 ## :scroll: History
 
 This work is based on [MEAN.js](http://meanjs.org) and more precisely on a fork of the developers named [Riess.js](https://github.com/lirantal/Riess.js). The work being stopped we wished to take it back, we want to create updated stack with same mindset "simple", "easy to use". The toolbox needed to start projects, but not only with Node and Angular ...
 
-## :globe_with_meridians: [We Are Open Source, Who we are ?](https://weareopensource.me)
+## :globe_with_meridians: [We Are Open Source, Who we are ?](https://pierreb.me)
 
 Today, we dreams to create Backs/Fronts, aligns on feats, in multiple languages, in order to allow anyone to compose fullstack on demand (React, Angular, VusJS, Node, Nest, Swift, Go).
 Feel free to discuss, share other kind of bricks, and invite whoever you want with this mindset to come help us.
@@ -125,8 +119,8 @@ Feel free to help us ! :)
 
 ## :clipboard: Licence
 
-[![Packagist](https://badges.weareopensource.me/packagist/l/doctrine/orm.svg?style=flat-square)](/LICENSE.md)
+[MIT](/LICENSE.md)
 
 ## :link: Links
 
-[![Blog](https://badges.weareopensource.me/badge/Read-our%20Blog-1abc9c.svg?style=flat-square)](https://blog.weareopensource.me) [![Slack](https://badges.weareopensource.me/badge/Chat-on%20our%20Slack-d0355b.svg?style=flat-square)](https://join.slack.com/t/weareopensource/shared_invite/zt-62p1qxna-PEQn289qx6mmHobzKW8QFw) [![Discord](https://badges.weareopensource.me/badge/Chat-on%20our%20Discord-516DB9.svg?style=flat-square)](https://discord.gg/U2a2vVm) [![Mail](https://badges.weareopensource.me/badge/Contact-us%20by%20mail-00a8ff.svg?style=flat-square)](mailto:brisorgueilp@gmail.com?subject=Contact)
+[Slack](https://join.slack.com/t/weareopensource/shared_invite/zt-62p1qxna-PEQn289qx6mmHobzKW8QFw) · [Discord](https://discord.gg/U2a2vVm) · [Mail](mailto:brisorgueilp@gmail.com?subject=Contact)
